@@ -7,5 +7,5 @@ I love playing games and ofcourse make them, I'm also working on some little Pro
 C#
 
 ## Contact Me
-You can easily reach me by mailing to niek+gitcontact@meletstudios.com and also over on my [Discord](https://discord.gg/YdpSWCZ6) server!
+You can easily reach me by mailing to niek+gitcontact@meletstudios.com and also over on my [Discord](https://discord.gg/YdpSWCZ6) server! Or easily add me: suppy#4530
 
