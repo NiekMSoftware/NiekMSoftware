@@ -5,7 +5,7 @@ I love playing games and ofcourse make them, I'm also working on some little Pro
 
 ## Languages
 #### C# - Intermediate
-### C++ - Beginner
+#### C++ - Beginner
 ## Contact Me
 You can easily reach me by mailing to niek+gitcontact@meletstudios.com and also over on Discord: 
 @suppyvt
