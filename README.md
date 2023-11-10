@@ -6,13 +6,13 @@ I love playing games and ofcourse make them, I'm also working on some little pro
 # About me
 
 Languages
-C# - Novice
-C++ - Beginner
+### C# - Novice
+### C++ - Beginner
 
 Contact Me
 You can easily reach me by mailing to niek+gitcontact@meletstudios.com
 
-## Discord Server
+Discord Server
 #### https://discord.gg/k2V5a7TJba
 
 ### Git Stats
