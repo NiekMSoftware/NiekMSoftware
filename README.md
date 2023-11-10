@@ -10,7 +10,7 @@ I love playing games and ofcourse make them, I'm also working on some little pro
 You can easily reach me by mailing to niek+gitcontact@meletstudios.com
 
 ## Discord Server
-(https://discord.gg/k2V5a7TJba)
+##### https://discord.gg/k2V5a7TJba
 
 ## Git Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiekMSoftware&show_icons=true&theme=tokyonight)
