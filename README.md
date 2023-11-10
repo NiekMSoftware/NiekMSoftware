@@ -4,7 +4,7 @@ My name is Niek, I'm a junior Game Developer Student and I'm also a founder of @
 I love playing games and ofcourse make them, I'm also working on some little projects..
 
 ## Languages
-#### C# - Intermediate
+#### C# - Novice
 #### C++ - Beginner
 ### Contact Me
 You can easily reach me by mailing to niek+gitcontact@meletstudios.com
