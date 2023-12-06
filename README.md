@@ -7,10 +7,10 @@ I love playing games and ofcourse make them, I'm also working on some little pro
 
 ### Languages
 + C# - Novice
-+ C++ - Beginner
++ C++ - Intermediate
 
 ### Contact
-You would be able to reach out to me via my [portfolio](https://niekmsoftware.github.io/portfolio/) 🕹️
+You would be able to reach out to me via my [portfolio](https://niekmsoftware.github.io/portfolio/). 🕹️
 
 ### Discord
 Feel free to join my [Discord server](https://discord.gg/rp9ajb3mj6) and say hi from there! 🎮
