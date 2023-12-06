@@ -5,15 +5,15 @@
 My name is Niek, I'm a junior Game Developer Student and I'm also a founder of @MeletStudios!
 I love playing games and ofcourse make them, I'm also working on some little projects..
 
-### Languages
-#### C# - Novice
-#### C++ - Beginner
+## Languages
+### C# - Novice
+### C++ - Beginner
 
-### Contact
+## Contact
 ### You would be able to reach out to me via my portfolio 🕹️
 ### https://niekmsoftware.github.io/portfolio/
 
-### Discord
+## Discord
 ### Feel free to join my Discord server and say hi from there! 🎮
 ### https://discord.gg/rp9ajb3mj6
 
