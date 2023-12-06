@@ -9,10 +9,11 @@ I love playing games and ofcourse make them, I'm also working on some little pro
 ### C# - Novice
 ### C++ - Beginner
 
-Contact Me
-You can easily reach me by mailing to niek+gitcontact@meletstudios.com
+# Contact
+You would be able to reach out to me via my portfolio 🕹️
+(https://niekmsoftware.github.io/portfolio/)
 
-Discord Server
+Or you could join my Discord server and say hi from there! 🎮
 (https://discord.gg/rp9ajb3mj6)
 
 ### Git Stats
