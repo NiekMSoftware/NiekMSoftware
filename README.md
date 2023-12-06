@@ -13,7 +13,7 @@ Contact Me
 You can easily reach me by mailing to niek+gitcontact@meletstudios.com
 
 Discord Server
-#### https://discord.gg/k2V5a7TJba
+(https://discord.gg/rp9ajb3mj6)
 
 ### Git Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiekMSoftware&show_icons=true&theme=tokyonight)
