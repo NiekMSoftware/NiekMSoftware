@@ -5,7 +5,7 @@ I love playing games and ofcourse make them, I'm also working on some little pro
 
 # About me
 
-Languages
+## Languages
 ### C# - Novice
 ### C++ - Beginner
 
