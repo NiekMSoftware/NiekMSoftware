@@ -1,20 +1,21 @@
 # Welcome to my GitHub repository! 👋
 
+# About me
+
 My name is Niek, I'm a junior Game Developer Student and I'm also a founder of @MeletStudios!
 I love playing games and ofcourse make them, I'm also working on some little projects..
-
-# About me
 
 ## Languages
 ### C# - Novice
 ### C++ - Beginner
 
-# Contact
+## Contact
 You would be able to reach out to me via my portfolio 🕹️
-(https://niekmsoftware.github.io/portfolio/)
+https://niekmsoftware.github.io/portfolio/
 
-Or you could join my Discord server and say hi from there! 🎮
-(https://discord.gg/rp9ajb3mj6)
+## Discord
+Feel free to join my Discord server and say hi from there! 🎮
+https://discord.gg/rp9ajb3mj6
 
 ### Git Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiekMSoftware&show_icons=true&theme=tokyonight)
