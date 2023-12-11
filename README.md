@@ -7,6 +7,7 @@ I love playing games and ofcourse make them, I'm also working on some little pro
 ## Languages
 + C#
 + C++
++ HTML (Bootstrap)
 
 ## Contact
 If you would like to reach out to me, you could do so via [LinkedIn](https://www.linkedin.com/in/niek-melet-9a7255273/),
