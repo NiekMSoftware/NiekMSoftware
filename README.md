@@ -1,8 +1,8 @@
 # Welcome to my GitHub page! 👋
 
 ## About me
-My name is Niek, I'm a junior game geveloper student and I'm also a founder of [@MeletStudios](https://github.com/MeletStudios)!
-I love playing games and ofcourse make them, I'm also working on some little projects..
+My name is Niek, I'm a junior game geveloper student. I am fascinated about the creation of game engines, so you might see some
+thigns related to that so here and there...~
 
 ## Languages
 + C#
