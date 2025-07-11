@@ -61,6 +61,6 @@
 ---
 
 <p align="center">
-  <em>コードに国境はない – Code knows no borders.</em><br/>
+  <em>「コードに国境はない」 – Code knows no borders.</em><br/>
   <sub>Build once. Deploy everywhere. Stay true to the core.</sub>
 </p>
