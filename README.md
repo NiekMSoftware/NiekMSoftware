@@ -14,7 +14,8 @@
   - Custom engine development
   - Clean low-level code (C++, OpenGL)
   - Tooling that actually helps devs
-- 🚧 Currently building: `Polykami` — a lightweight, component-based OpenGL engine
+  - Cross-Platform development
+- 🚧 Currently building: `Polykami` — a lightweight, cross-platform OpenGL engine
 
 ---
 
