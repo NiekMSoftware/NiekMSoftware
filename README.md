@@ -46,7 +46,7 @@
 ### 🧩 Featured Projects
 
 #### 🔹 [Polykami (WIP)](https://github.com/NiekMSoftware/Polykami)
-> Lightweight, cross-platform rendering engine built in modern C++ & OpenGL. Modular ECS. Immediate-mode UI via ImGui.  
+> Lightweight, cross-platform rendering engine built in modern C++ & OpenGL. More to be announced.
 > _「軽く、柔軟、目的主導」– light, flexible, purpose-driven._
 
 #### 🔹 [BUAS CMGT Intake](https://github.com/NiekMSoftware/BUAS-CMGT-Intake)
