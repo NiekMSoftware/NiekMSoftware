@@ -46,10 +46,6 @@
 
 ### 🧩 Featured Projects
 
-#### 🔹 [Polykami (WIP)](https://github.com/NiekMSoftware/Polykami)
-> Lightweight, cross-platform rendering engine built in modern C++ & OpenGL. More to be announced.
-> _「軽く、柔軟、目的主導」– light, flexible, purpose-driven._
-
 #### 🔹 [BUAS CMGT Intake](https://github.com/NiekMSoftware/BUAS-CMGT-Intake)
 > Arcade-style mini-project that landed me a spot at BUAS.  
 > Built in [BUAS' Template engine](https://github.com/jbikker/tmpl8), gameplay inspired by classic Asteroids.
