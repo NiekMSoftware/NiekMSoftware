@@ -15,7 +15,7 @@
   - Clean low-level code (C++, OpenGL)
   - Tooling that actually helps devs
   - Cross-Platform development
-- 🚧 Currently building: `Polykami` — a lightweight, cross-platform OpenGL engine
+- 🚧 Currently working on: `Vulkan Engine` — a personal deepdive that I cannot wait to share.
 
 ---
 
