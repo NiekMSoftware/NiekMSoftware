@@ -15,7 +15,6 @@
   - Clean low-level code (C++, OpenGL)
   - Tooling that actually helps devs
   - Cross-Platform development
-- 🚧 Currently working on: `Vulkan Engine` — a personal deepdive that I cannot wait to share.
 
 ---
 
