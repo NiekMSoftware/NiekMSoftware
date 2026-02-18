@@ -54,14 +54,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niekmsoftware&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ### 📡 Contact & Links
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/niek-melet/)
